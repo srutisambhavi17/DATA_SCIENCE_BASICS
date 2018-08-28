@@ -6,7 +6,7 @@
 import tweepy
 from textblob import TextBlob
 
-consumer_key = '' #enter your own consumer_key
+consumer_key = '' #enter your own consumer_key(from twitter account)
 consumer_secret = '' #enter your own consumer_secret
 
 access_token = '' #enter your own access token 
